@@ -239,7 +239,7 @@
 0.0.0.0 adipregister.new.facebook.com
 0.0.0.0 adistance.messenger.com
 0.0.0.0 admin.giphy.com
-0.0.0.0 admin.instagram.com
+#0.0.0.0 admin.instagram.com
 0.0.0.0 admin.intern.facebook.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 ads.fbsbx.com
@@ -1585,7 +1585,7 @@
 0.0.0.0 backendm.fbjs.facebook.com
 0.0.0.0 badge.facebook.com
 0.0.0.0 badge.new.facebook.com
-#0.0.0.0 badges.instagram.com
+0.0.0.0 badges.instagram.com
 0.0.0.0 baijialemask.facebookbrand-preprod.fb.com
 0.0.0.0 baijialemask.messenger.com
 0.0.0.0 baijialeyulechengwangzhilive.oculusvr.com
@@ -1894,11 +1894,11 @@
 0.0.0.0 c.facebook.com
 0.0.0.0 c.fb.messenger.com
 0.0.0.0 c.instagram.fakc1-1.fna.fbcdn.net
-#0.0.0.0 c.ish.instagram.com
+0.0.0.0 c.ish.instagram.com
 0.0.0.0 c.m.beta.facebook.com
 0.0.0.0 c.ns.c10r.facebook.com
 0.0.0.0 c.ns.cdn.whatsapp.net
-#0.0.0.0 c.ns.cdninstagram.com
+0.0.0.0 c.ns.cdninstagram.com
 0.0.0.0 c.ns.facebook.com
 0.0.0.0 c.ns.fna.fbcdn.net
 0.0.0.0 c.ns.vvv.facebook.com
@@ -2169,7 +2169,7 @@
 0.0.0.0 create.giphy.com
 0.0.0.0 creatingwebsite-maskolis.messenger.com
 0.0.0.0 creatingwebsite-maskolis.scgraph.facebook.com
-#0.0.0.0 creative.cdninstagram.com
+0.0.0.0 creative.cdninstagram.com
 0.0.0.0 creative.fb.com
 0.0.0.0 creator.oculus.com
 0.0.0.0 cs-cz.ad-dk.lite.facebook.com
@@ -2354,10 +2354,10 @@
 0.0.0.0 d2.whatsapp.net
 0.0.0.0 d.facebook.com
 0.0.0.0 d.fb.me
-#0.0.0.0 d.ish.instagram.com
+0.0.0.0 d.ish.instagram.com
 0.0.0.0 d.ns.c10r.facebook.com
 0.0.0.0 d.ns.cdn.whatsapp.net
-#0.0.0.0 d.ns.cdninstagram.com
+0.0.0.0 d.ns.cdninstagram.com
 0.0.0.0 d.ns.facebook.com
 0.0.0.0 d.ns.fna.fbcdn.net
 0.0.0.0 d.ns.vvv.facebook.com
@@ -3046,7 +3046,7 @@
 0.0.0.0 e15.whatsapp.net
 0.0.0.0 e16.whatsapp.net
 0.0.0.0 e.fbsbx.com
-#0.0.0.0 e.ish.instagram.com
+0.0.0.0 e.ish.instagram.com
 0.0.0.0 e.oculusvr.com
 0.0.0.0 eager.oculusvr.com
 0.0.0.0 ebuddy.com.web.messenger.com
