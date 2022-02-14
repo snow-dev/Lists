@@ -202,14 +202,14 @@
 #0.0.0.0 a.ish.instagram.com
 0.0.0.0 a.m.beta.facebook.com
 0.0.0.0 a.ns.c10r.facebook.com
-0.0.0.0 a.ns.cdn.whatsapp.net
+#0.0.0.0 a.ns.cdn.whatsapp.net
 #0.0.0.0 a.ns.cdninstagram.com
 0.0.0.0 a.ns.facebook.com
 0.0.0.0 a.ns.fna.fbcdn.net
 0.0.0.0 a.ns.t.facebook.com
 0.0.0.0 a.ns.t.facebook.net
 0.0.0.0 a.ns.vvv.facebook.com
-0.0.0.0 a.ns.whatsapp.net
+#0.0.0.0 a.ns.whatsapp.net
 0.0.0.0 a.ns.xx.fbcdn.net
 0.0.0.0 a.ns.xy.fbcdn.net
 0.0.0.0 a.ns.xz.fbcdn.net
@@ -226,7 +226,7 @@
 0.0.0.0 accesadistance.cinyour.facebook.com
 0.0.0.0 access.fb.com
 0.0.0.0 account.oculus.com
-0.0.0.0 account.whatsapp.com
+#0.0.0.0 account.whatsapp.com
 0.0.0.0 accounts-graph.facebook.com
 0.0.0.0 accountsecuritylockdown.internmc.facebook.com
 0.0.0.0 accountsecuritylockdown.messenger.com
@@ -634,7 +634,7 @@
 0.0.0.0 api.google.fb.messenger.com
 #0.0.0.0 api.instagram.com
 0.0.0.0 api.new.facebook.com
-0.0.0.0 api.whatsapp.com
+#0.0.0.0 api.whatsapp.com
 0.0.0.0 apmlw9a7.dns.facebook.com
 0.0.0.0 apmms.fb.com
 0.0.0.0 apollo-mod.oculusvr.com
